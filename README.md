@@ -25,7 +25,7 @@ The goal of this project is to apply and demonstrate my hands-on skills in Azure
 
 ## 🚀 Live Demo
 
-🟢 [https://cloudwithvithu.z13.web.core.windows.net/](https://cloudwithvithu.z13.web.core.windows.net/)
+🟢 https://resumecdncloudwithvithu.azureedge.net/ or https://resumestorageacg.z19.web.core.windows.net
 
 ---
 
